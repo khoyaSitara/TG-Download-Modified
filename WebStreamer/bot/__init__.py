@@ -2,6 +2,8 @@
 # Coding : Jyothis Jayanth [@EverythingSuckz]
 
 
+import os
+import os.path
 from ..vars import Var
 import logging
 from pyrogram import Client
